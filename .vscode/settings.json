@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "java.project.sourcePaths": [
+        "Vector/src",
+        "String",
+        "ArrayList",
+        "Recursion"
+    ]
+}

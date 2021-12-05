@@ -1,0 +1,1 @@
+{"name":"Local: dltEleFromArray","url":"g:\\DSA\\dltEleFromArray.cpp","tests":[{"id":1633857564727,"input":"6\n1 3 4 6 7 8\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\DSA\\dltEleFromArray.cpp","group":"local","local":true}
