@@ -4,9 +4,10 @@
         "iostream": "cpp"
     },
     "java.project.sourcePaths": [
+        "array",
         "Vector/src",
         "String",
         "ArrayList",
-        "Recursion"
+        "Recursion-Backtracking"
     ]
 }

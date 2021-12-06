@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch tiling",
+            "request": "launch",
+            "mainClass": "tiling",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "pwa-chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddToArrayList",
+            "request": "launch",
+            "mainClass": "AddToArrayList",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListBooks",
+            "request": "launch",
+            "mainClass": "ArrayListBooks",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColNoFix",
+            "request": "launch",
+            "mainClass": "ColNoFix",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch DigitSum",
+            "request": "launch",
+            "mainClass": "DigitSum",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetSetAL",
+            "request": "launch",
+            "mainClass": "GetSetAL",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ItreratingArrayList",
+            "request": "launch",
+            "mainClass": "ItreratingArrayList",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch JumpTo",
+            "request": "launch",
+            "mainClass": "JumpTo",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nto1",
+            "request": "launch",
+            "mainClass": "Nto1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumExample",
+            "request": "launch",
+            "mainClass": "NumExample",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNum",
+            "request": "launch",
+            "mainClass": "PrintNum",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recur1",
+            "request": "launch",
+            "mainClass": "Recur1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stream",
+            "request": "launch",
+            "mainClass": "Stream",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "SubsetSum",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfDigit",
+            "request": "launch",
+            "mainClass": "SumOfDigit",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.company.Main",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringLearn",
+            "request": "launch",
+            "mainClass": "com.company.stringLearn",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch vector2",
+            "request": "launch",
+            "mainClass": "com.company.vector2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch vector3",
+            "request": "launch",
+            "mainClass": "com.company.vector3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch displayArray",
+            "request": "launch",
+            "mainClass": "displayArray",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch example1",
+            "request": "launch",
+            "mainClass": "example1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibo1",
+            "request": "launch",
+            "mainClass": "fibo1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch performance",
+            "request": "launch",
+            "mainClass": "performance",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch skipAchar",
+            "request": "launch",
+            "mainClass": "skipAchar",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortedArr",
+            "request": "launch",
+            "mainClass": "sortedArr",
+            "projectName": "Java_118cf1fe"
+        }
+    ]
+}
