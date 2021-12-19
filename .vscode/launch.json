@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch caseCheck",
+            "request": "launch",
+            "mainClass": "caseCheck",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch largest2",
+            "request": "launch",
+            "mainClass": "largest2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch largest",
+            "request": "launch",
+            "mainClass": "largest",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxOfArray",
+            "request": "launch",
+            "mainClass": "MaxOfArray",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome1",
+            "request": "launch",
+            "mainClass": "Palindrome1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch powerLinear",
+            "request": "launch",
+            "mainClass": "powerLinear",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch decreaseArray",
+            "request": "launch",
+            "mainClass": "decreaseArray",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch tiling",
             "request": "launch",
             "mainClass": "tiling",

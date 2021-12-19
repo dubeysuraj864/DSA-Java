@@ -1,7 +1,7 @@
 class skipAchar{
 
     public static void main(String[] args) {
-        skip("", baccdah);
+        skip("", "baccdah");
     }
         static void skip (String p, String up){
              if(up.isEmpty()){
