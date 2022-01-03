@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch exp3",
+            "request": "launch",
+            "mainClass": "exp3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch printTillN",
             "request": "launch",
             "mainClass": "printTillN",
