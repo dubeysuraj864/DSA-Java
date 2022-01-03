@@ -21,6 +21,6 @@ public class decreaseArray {
         }
     
         System.out.println(n);
-        printDecreasing(n-1);
+        return printDecreasing(n-1);
     }
 }
