@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch printTillN",
+            "request": "launch",
+            "mainClass": "printTillN",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhileExp1",
+            "request": "launch",
+            "mainClass": "DoWhileExp1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch infiniteLoop",
+            "request": "launch",
+            "mainClass": "infiniteLoop",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch countTillN",
+            "request": "launch",
+            "mainClass": "countTillN",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevPyramid",
+            "request": "launch",
+            "mainClass": "RevPyramid",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch pyramid",
             "request": "launch",
             "mainClass": "pyramid",
