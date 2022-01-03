@@ -31,5 +31,4 @@ public class BinarySearch {
         }
         return search(arr, target, s, m-1);
     } 
-
 }

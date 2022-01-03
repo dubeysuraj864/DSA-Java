@@ -6,6 +6,52 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SwitchMonthExample",
+            "request": "launch",
+            "mainClass": "SwitchMonthExample",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwirchExample",
+            "request": "launch",
+            "mainClass": "SwirchExample",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bloodDonate",
+            "request": "launch",
+            "mainClass": "bloodDonate",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "pwa-extensionHost"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch greaterOrNot",
+            "request": "launch",
+            "mainClass": "greaterOrNot",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch caseCheck",
             "request": "launch",
             "mainClass": "caseCheck",
