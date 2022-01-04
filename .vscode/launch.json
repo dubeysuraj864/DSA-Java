@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciSeries2",
+            "request": "launch",
+            "mainClass": "fibonacciSeries2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciSeries",
+            "request": "launch",
+            "mainClass": "fibonacciSeries",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch exp3",
             "request": "launch",
             "mainClass": "exp3",

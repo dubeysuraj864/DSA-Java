@@ -4,16 +4,11 @@
         "iostream": "cpp"
     },
     "java.project.sourcePaths": [
-        "oops/whileLoop",
-        "oops/doWhileLoop",
-        "oops/control-statements",
-        "array",
         "Vector/src",
         "String",
-        "Recursion-Backtracking",
-        "Conditional-Loops",
+        "Basics/continue",
         "ArrayList",
-        "Basics/continue"
+        "Basic-Programs"
     ],
     "git.ignoreLimitWarning": true
 }
