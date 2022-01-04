@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PalindromeCheck",
+            "request": "launch",
+            "mainClass": "PalindromeCheck",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumberUsingMethod",
+            "request": "launch",
+            "mainClass": "PrimeNumberUsingMethod",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch PrimeNumber",
             "request": "launch",
             "mainClass": "PrimeNumber",
