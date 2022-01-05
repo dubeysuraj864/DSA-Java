@@ -27,5 +27,6 @@ public class PrimeNumber {
     scn.close();
   }
   
+  
 }
 

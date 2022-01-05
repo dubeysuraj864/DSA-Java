@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArmstrongOrNot",
+            "request": "launch",
+            "mainClass": "ArmstrongOrNot",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNumberTillN",
+            "request": "launch",
+            "mainClass": "ArmstrongNumberTillN",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch Palindrome2",
             "request": "launch",
             "mainClass": "Palindrome2",
