@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FactorialRecur",
+            "request": "launch",
+            "mainClass": "FactorialRecur",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorialUsingLoop",
+            "request": "launch",
+            "mainClass": "FactorialUsingLoop",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch ArmstrongOrNot",
             "request": "launch",
             "mainClass": "ArmstrongOrNot",

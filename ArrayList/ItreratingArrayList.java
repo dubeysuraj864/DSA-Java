@@ -8,6 +8,7 @@ public class ItreratingArrayList {
         list.add("Vegas");
 
         Iterator itr = list.iterator();
+
         while(itr.hasNext()){
             System.out.println(itr.next());
         }
