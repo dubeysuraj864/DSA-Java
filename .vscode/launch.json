@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Palindrome2",
+            "request": "launch",
+            "mainClass": "Palindrome2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch PalindromeCheck",
             "request": "launch",
             "mainClass": "PalindromeCheck",

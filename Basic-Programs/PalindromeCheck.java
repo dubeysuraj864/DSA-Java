@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 public class PalindromeCheck {
     public static void main(String[] args) {
-        int r, sum= 0, temp;
+        int rem, sum= 0, temp;
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
 
         temp =n;
         while(n > 0){
-            r = n%10;
-            sum = (sum*10)+r;
+            rem = n%10;
+            sum = (sum*10)+rem;
             n = n/10;
         }
         if(temp == sum){
