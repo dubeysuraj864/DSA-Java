@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RandomNumGen",
+            "request": "launch",
+            "mainClass": "RandomNumGen",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch FactorialRecur",
             "request": "launch",
             "mainClass": "FactorialRecur",
