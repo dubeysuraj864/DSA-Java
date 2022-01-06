@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch testCalculation",
+            "request": "launch",
+            "mainClass": "testCalculation",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch testStudent",
+            "request": "launch",
+            "mainClass": "testStudent",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch RandomNumGen",
             "request": "launch",
             "mainClass": "RandomNumGen",
