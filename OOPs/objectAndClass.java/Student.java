@@ -1,5 +1,5 @@
-import java.util.*;
-import java.util.jar.Attributes.Name;
+// import java.util.*;
+// import java.util.jar.Attributes.Name;
 
 // public class Student {
 //     int  id;
@@ -97,37 +97,37 @@ import java.util.jar.Attributes.Name;
 //     }
 // }
 
-// public class Student{
-//     int id;
-//     String name;
-//     int salary;
+public class Student{
+    int id;
+    String name;
+    int salary;
 
-//     void insertValue(int i, String n, int s){
-//         id = i;
-//         name = n;
-//         salary =s;
+    void insertValue(int i, String n, int s){
+        id = i;
+        name = n;
+        salary =s;
 
-//     }
+    }
 
-//     void printValue(){
-//         System.out.println(id + " " + name + " " + salary);
-//     }
-// }
+    void printValue(){
+        System.out.println(id + " " + name + " " + salary);
+    }
+}
 
-// class testStudent{
-//     public static void main(String[] args) {
-//         Student s1 = new Student();
-//         Student s2 = new Student();
-//         Student s3 = new Student();
+class testStudent{
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        Student s2 = new Student();
+        Student s3 = new Student();
 
-//         s1.insertValue(65, "Suraj Dubey", 900000);
-//         s2.insertValue(32, "Rohan Shukla", 134423);
-//         s3.insertValue(69, "Charlie puth", 234234);
+        s1.insertValue(65, "Suraj Dubey", 900000);
+        s2.insertValue(32, "Rohan Shukla", 134423);
+        s3.insertValue(69, "Charlie puth", 234234);
 
-//         s2.printValue();
-//         s1.printValue();
-//         s3.printValue();
+        s2.printValue();
+        s1.printValue();
+        s3.printValue();
 
-//     }
-// }
+    }
+}
 
