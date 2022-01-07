@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestAccount$Account",
+            "request": "launch",
+            "mainClass": "TestAccount$Account",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch Factorial",
             "request": "launch",
             "mainClass": "Factorial",

@@ -24,3 +24,4 @@ class testCalculation{
         a2.printArea();
     }
 }
+
