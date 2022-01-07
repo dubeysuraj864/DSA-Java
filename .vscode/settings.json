@@ -6,10 +6,11 @@
     "java.project.sourcePaths": [
         "Vector/src",
         "String",
+        "OOPs/objectAndClass.java",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/objectAndClass.java"
+        "OOPs/constructor"
     ],
     "git.ignoreLimitWarning": true
 }

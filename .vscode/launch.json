@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch constructorOverloading",
+            "request": "launch",
+            "mainClass": "constructorOverloading",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch parameterizedConstructor",
+            "request": "launch",
+            "mainClass": "parameterizedConstructor",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch defaultContructor",
+            "request": "launch",
+            "mainClass": "defaultContructor",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bike",
+            "request": "launch",
+            "mainClass": "bike",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch TestAccount$Account",
             "request": "launch",
             "mainClass": "TestAccount$Account",
