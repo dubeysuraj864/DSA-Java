@@ -7,10 +7,11 @@
         "Vector/src",
         "String",
         "OOPs/objectAndClass.java",
+        "OOPs/constructor",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/constructor"
+        "OOPs/staticVariable"
     ],
     "git.ignoreLimitWarning": true
 }

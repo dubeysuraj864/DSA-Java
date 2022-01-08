@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Student1",
+            "request": "launch",
+            "mainClass": "Student1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch CounterWithoutStaticVariable",
+            "request": "launch",
+            "mainClass": "CounterWithoutStaticVariable",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticVariable$Student",
+            "request": "launch",
+            "mainClass": "staticVariable$Student",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch copyValueWoutConst",
             "request": "launch",
             "mainClass": "copyValueWoutConst",
