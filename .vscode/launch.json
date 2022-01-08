@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch A5",
+            "request": "launch",
+            "mainClass": "A5",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch this4",
+            "request": "launch",
+            "mainClass": "this4",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch passArgu",
+            "request": "launch",
+            "mainClass": "passArgu",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch a",
             "request": "launch",
             "mainClass": "a",
@@ -643,6 +671,12 @@
             "request": "launch",
             "mainClass": "sortedArr",
             "projectName": "Java_118cf1fe"
+        },
+        {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": ""
         }
     ]
 }

@@ -20,7 +20,7 @@ public class Student {
                 ThisStudent s1 =new ThisStudent(111, "Suraj dubey", rollNo);
                 ThisStudent s2 =new ThisStudent(222, "Charlie", rollNo);
 
-                ThisStudent.change();
+                change();
                 s1.display();
                
                 s2.display();

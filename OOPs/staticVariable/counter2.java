@@ -8,8 +8,7 @@ public class counter2 {
 
     public static void main(String[] args) {
         
-        counter2 c1 = new counter2();
-        counter2 c2 = new counter2();
+        new counter2();
       
     }
 }

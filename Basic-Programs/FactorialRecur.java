@@ -11,7 +11,6 @@ public class FactorialRecur {
                 
     }
     public static void main(String[] args) {
-        int fact=1;
         Scanner scn = new Scanner (System.in);
         System.out.println("Enter a number");
         int n = scn.nextInt();

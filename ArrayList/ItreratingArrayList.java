@@ -7,10 +7,8 @@ public class ItreratingArrayList {
         list.add("New york");
         list.add("Vegas");
 
-        Iterator itr = list.iterator();
-
-        while(itr.hasNext()){
-            System.out.println(itr.next());
+        while(list.iterator().hasNext()){
+            System.out.println(list.iterator().next());
         }
     }
     

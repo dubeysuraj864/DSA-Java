@@ -64,6 +64,7 @@ public class RandomNumGen {
     //     }
     //     else System.out.println("Oops!!! Better luck next time");
 
-        // scn.nextInt();
+        // scn.nextInt();\
+        scn.close();
     }
 }

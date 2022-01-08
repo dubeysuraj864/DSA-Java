@@ -16,8 +16,8 @@
     class TestThis{
 
         public static void main(String[] args) {
-            Student s1 = new Student(111, "Suraj Dubey");
-            Student s2 = new Student(222, "Ariana Grande");
+            ThisStudent s1 = new ThisStudent(111, "Suraj Dubey",0);
+            ThisStudent s2 = new ThisStudent(222, "Ariana Grande", 6000);
 
             s1.display();
             s2.display();

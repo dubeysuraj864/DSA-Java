@@ -6,6 +6,7 @@ public class example1 {
         String str2 = scn.nextLine();
 
         System.out.println(str.concat(str2));
-
+        
+        scn.close();
     }
 }
