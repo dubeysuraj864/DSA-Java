@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisKeyword1$TestThis3",
+            "request": "launch",
+            "mainClass": "ThisKeyword1$TestThis3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisStudent$TestThis",
+            "request": "launch",
+            "mainClass": "ThisStudent$TestThis",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticOnly",
+            "request": "launch",
+            "mainClass": "staticOnly",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch calCube",
+            "request": "launch",
+            "mainClass": "calCube",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch counter2",
+            "request": "launch",
+            "mainClass": "counter2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch Student1",
             "request": "launch",
             "mainClass": "Student1",

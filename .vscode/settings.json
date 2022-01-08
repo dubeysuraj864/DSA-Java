@@ -11,7 +11,8 @@
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/staticVariable"
+        "OOPs/staticVariable",
+        "OOPs\\ThisKeyword"
     ],
     "git.ignoreLimitWarning": true
 }

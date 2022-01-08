@@ -1,7 +1,5 @@
 import java.util.*;
 
-import javax.sound.sampled.SourceDataLine;
-
 public class palindrome {
     public static void main(String[] args) {
         int sum = 0,temp,r;
@@ -21,6 +19,9 @@ public class palindrome {
         else{
             System.out.println("Not Palindrome");
         }
+
+
+        scn.close();
 
     }
     
