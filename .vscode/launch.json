@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch notSupported",
+            "request": "launch",
+            "mainClass": "notSupported",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch multilevelInh",
+            "request": "launch",
+            "mainClass": "multilevelInh",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cat$singleInh",
+            "request": "launch",
+            "mainClass": "Cat$singleInh",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Programmer",
+            "request": "launch",
+            "mainClass": "Programmer",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch A5",
             "request": "launch",
             "mainClass": "A5",

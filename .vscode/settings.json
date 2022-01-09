@@ -6,13 +6,13 @@
     "java.project.sourcePaths": [
         "Vector/src",
         "String",
+        "OOPs/thisKeyword",
         "OOPs/staticVariable",
         "OOPs/constructor",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/ThisKeyword",
-        "OOPs\\thisKeyword"
+        "OOPs/inheritance"
     ],
     "git.ignoreLimitWarning": true
 }
