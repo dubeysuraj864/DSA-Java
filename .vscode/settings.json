@@ -10,10 +10,11 @@
         "OOPs/staticVariable",
         "OOPs/inheritance",
         "OOPs/constructor",
+        "OOPs/Aggregation",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/Aggregation"
+        "OOPs/Polymorphism/MethodOverloading"
     ],
     "git.ignoreLimitWarning": true
 }

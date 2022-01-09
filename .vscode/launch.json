@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OverloadingCalculation1",
+            "request": "launch",
+            "mainClass": "OverloadingCalculation1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch testOverloading4",
+            "request": "launch",
+            "mainClass": "testOverloading4",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOverloading2",
+            "request": "launch",
+            "mainClass": "TestOverloading2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOverloading",
+            "request": "launch",
+            "mainClass": "TestOverloading",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch Emp",
             "request": "launch",
             "mainClass": "Emp",
