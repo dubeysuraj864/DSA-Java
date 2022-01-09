@@ -8,11 +8,12 @@
         "String",
         "OOPs/thisKeyword",
         "OOPs/staticVariable",
+        "OOPs/inheritance",
         "OOPs/constructor",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/inheritance"
+        "OOPs/Aggregation"
     ],
     "git.ignoreLimitWarning": true
 }

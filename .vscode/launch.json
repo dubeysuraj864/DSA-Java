@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Emp",
+            "request": "launch",
+            "mainClass": "Emp",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch circle",
+            "request": "launch",
+            "mainClass": "circle",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch notSupported",
             "request": "launch",
             "mainClass": "notSupported",
