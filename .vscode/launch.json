@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch finalStopInh",
+            "request": "launch",
+            "mainClass": "finalStopInh",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch final4",
+            "request": "launch",
+            "mainClass": "final4",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch honda2",
+            "request": "launch",
+            "mainClass": "honda2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch final3",
+            "request": "launch",
+            "mainClass": "final3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch honda",
+            "request": "launch",
+            "mainClass": "honda",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bike9",
+            "request": "launch",
+            "mainClass": "bike9",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch final1",
+            "request": "launch",
+            "mainClass": "final1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch exmp2",
             "request": "launch",
             "mainClass": "exmp2",

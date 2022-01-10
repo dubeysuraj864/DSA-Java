@@ -13,12 +13,13 @@
         "OOPs/Polymorphism/SuperKeyword",
         "OOPs/Polymorphism/MethodOverriding",
         "OOPs/Polymorphism/MethodOverloading",
+        "OOPs/Polymorphism/InstanceInitializerBlock",
         "OOPs/Polymorphism/CovariantReturnType",
         "OOPs/Aggregation",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/Polymorphism/InstanceInitializerBlock"
+        "OOPs/Polymorphism/finalKeyword"
     ],
     "git.ignoreLimitWarning": true
 }
