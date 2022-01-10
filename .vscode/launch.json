@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch exmp2",
+            "request": "launch",
+            "mainClass": "exmp2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bike7",
+            "request": "launch",
+            "mainClass": "bike7",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bike8",
+            "request": "launch",
+            "mainClass": "bike8",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch realSuper",
+            "request": "launch",
+            "mainClass": "realSuper",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch super3",
+            "request": "launch",
+            "mainClass": "super3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch super2",
+            "request": "launch",
+            "mainClass": "super2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch super1",
+            "request": "launch",
+            "mainClass": "super1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch CovariantExample",
             "request": "launch",
             "mainClass": "CovariantExample",
