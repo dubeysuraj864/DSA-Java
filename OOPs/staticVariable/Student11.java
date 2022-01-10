@@ -1,4 +1,4 @@
-public class Student {
+public class Student11 {
     static int rollNo;
     String name;
     static String college = "AIT";
@@ -8,7 +8,7 @@ public class Student {
  
     }
 
-    Student(int r, String n){
+    Student11(int r, String n){
         rollNo = r;
         name = n;
     }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OverloadingCalculation3",
+            "request": "launch",
+            "mainClass": "OverloadingCalculation3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadingCalculation2",
+            "request": "launch",
+            "mainClass": "OverloadingCalculation2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch OverloadingCalculation1",
             "request": "launch",
             "mainClass": "OverloadingCalculation1",
