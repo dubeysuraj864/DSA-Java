@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CovariantExample",
+            "request": "launch",
+            "mainClass": "CovariantExample",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch A9",
+            "request": "launch",
+            "mainClass": "A9",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch test123",
+            "request": "launch",
+            "mainClass": "test123",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bike22",
+            "request": "launch",
+            "mainClass": "bike22",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch bike21",
+            "request": "launch",
+            "mainClass": "bike21",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch OverloadingCalculation3",
             "request": "launch",
             "mainClass": "OverloadingCalculation3",
