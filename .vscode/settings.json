@@ -21,7 +21,8 @@
         "Basic-Programs",
         "ArrayList",
         "OOPs/Polymorphism/runTimePolymorphism",
-        "OOPs\\Polymorphism\\dynamicBinding"
+        "OOPs\\Polymorphism\\dynamicBinding",
+        "OOPs\\Polymorphism\\instanceOfOperator"
     ],
     "git.ignoreLimitWarning": true
 }

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Dog3",
+            "request": "launch",
+            "mainClass": "Dog3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch dog3",
+            "request": "launch",
+            "mainClass": "dog3",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch simple2",
+            "request": "launch",
+            "mainClass": "simple2",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch simple1",
+            "request": "launch",
+            "mainClass": "simple1",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch selena",
             "request": "launch",
             "mainClass": "selena",

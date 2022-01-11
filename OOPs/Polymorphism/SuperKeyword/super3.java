@@ -11,6 +11,7 @@ class cow extends Animals{
 }
 public class super3 {
     public static void main(String[] args) {
-        cow c = new cow();
+        cow cc = new cow();
+        
     }
 }
