@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch selena",
+            "request": "launch",
+            "mainClass": "selena",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticBinding",
+            "request": "launch",
+            "mainClass": "staticBinding",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch polyMultilevelInh",
             "request": "launch",
             "mainClass": "polyMultilevelInh",

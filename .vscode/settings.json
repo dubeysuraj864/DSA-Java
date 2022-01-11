@@ -20,7 +20,8 @@
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/Polymorphism/runTimePolymorphism"
+        "OOPs/Polymorphism/runTimePolymorphism",
+        "OOPs\\Polymorphism\\dynamicBinding"
     ],
     "git.ignoreLimitWarning": true
 }
