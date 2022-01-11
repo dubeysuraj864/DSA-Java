@@ -10,6 +10,7 @@
         "OOPs/staticVariable",
         "OOPs/inheritance",
         "OOPs/constructor",
+        "OOPs/Polymorphism/finalKeyword",
         "OOPs/Polymorphism/SuperKeyword",
         "OOPs/Polymorphism/MethodOverriding",
         "OOPs/Polymorphism/MethodOverloading",
@@ -19,7 +20,7 @@
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/Polymorphism/finalKeyword"
+        "OOPs/Polymorphism/runTimePolymorphism"
     ],
     "git.ignoreLimitWarning": true
 }

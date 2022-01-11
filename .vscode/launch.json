@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch polyMultilevelInh",
+            "request": "launch",
+            "mainClass": "polyMultilevelInh",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch testPolym",
+            "request": "launch",
+            "mainClass": "testPolym",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch polym",
+            "request": "launch",
+            "mainClass": "polym",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch testPoly",
+            "request": "launch",
+            "mainClass": "testPoly",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch cruze",
+            "request": "launch",
+            "mainClass": "cruze",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_118cf1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch finalStopInh",
             "request": "launch",
             "mainClass": "finalStopInh",

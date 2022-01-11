@@ -7,7 +7,7 @@ public class bike8 {
 
     {System.out.println("instance initializer block invoked");}
 
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         bike8 b1 = new bike8();
         bike8 b2 = new bike8();
     }
