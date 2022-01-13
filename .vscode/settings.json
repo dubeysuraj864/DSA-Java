@@ -10,19 +10,22 @@
         "OOPs/staticVariable",
         "OOPs/inheritance",
         "OOPs/constructor",
+        "OOPs/Polymorphism/runTimePolymorphism",
+        "OOPs/Polymorphism/instanceOfOperator",
         "OOPs/Polymorphism/finalKeyword",
+        "OOPs/Polymorphism/dynamicBinding",
         "OOPs/Polymorphism/SuperKeyword",
         "OOPs/Polymorphism/MethodOverriding",
         "OOPs/Polymorphism/MethodOverloading",
         "OOPs/Polymorphism/InstanceInitializerBlock",
         "OOPs/Polymorphism/CovariantReturnType",
+        "OOPs/Encapsulation/modifiers",
         "OOPs/Aggregation",
+        "OOPs/Abstraction",
         "Basics/continue",
         "Basic-Programs",
         "ArrayList",
-        "OOPs/Polymorphism/runTimePolymorphism",
-        "OOPs\\Polymorphism\\dynamicBinding",
-        "OOPs\\Polymorphism\\instanceOfOperator"
+        "OOPs/Encapsulation/accessModifiers"
     ],
     "git.ignoreLimitWarning": true
 }
