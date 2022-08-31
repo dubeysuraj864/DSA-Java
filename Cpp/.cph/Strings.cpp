@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
@@ -27,13 +28,15 @@ int main()
 
     // cout << car[1];
 
-    string firstName; string lastName;
+    // string firstName; string lastName;
 
-    cout << "Enter your first name and last name" << endl;
-    cin >> firstName >> lastName;
+    // cout << "Enter your first name and last name" << endl;
+    // cin >> firstName >> lastName;
 
-     cout << "First Name : " + firstName << endl;
-     cout << "Last Name : " + lastName << endl;
+    //  cout << "First Name : " + firstName << endl;
+    //  cout << "Last Name : " + lastName << endl;
+
+
 
     return 0;
 }

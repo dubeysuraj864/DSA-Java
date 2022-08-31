@@ -28,10 +28,10 @@ int main()
 {
 
     int addFunction = add(3, 4);
-    int substrationFunction = substraction(34,34);
-    int multiplyFunction = multiply(34,34);
-    float divideFunction = divide(34,100);
-    int moduleFunction = module(23,98);
+    int substrationFunction = substraction(34, 34);
+    int multiplyFunction = multiply(34, 34);
+    float divideFunction = divide(34, 100);
+    int moduleFunction = module(23, 98);
 
     cout << addFunction << endl;
     cout << substrationFunction << endl;
