@@ -1,8 +1,13 @@
+import java.util.Scanner;
+
 public class HelloWorld {
     public static void main(String [] args){
+
+        Scanner scan = new Scanner(System.in);
      
-        int a = 20;
-        int b = 32;
+        int a ,b;
+        a = scan.nextInt();
+        b = scan.nextInt();
 
         int sum = a+b;
 
