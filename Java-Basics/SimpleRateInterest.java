@@ -5,9 +5,15 @@ public class SimpleRateInterest {
 
         Scanner scan = new Scanner(System.in);
 
-        String str = scan.nextLine();
+        // String str = scan.nextLine();
 
-        System.out.println(str);
+        String str = scan.next();
+        
+        char c = str.charAt(0);
+
+
+
+        System.out.println( c  );
 
         // int n = scan.nextInt();
         // float f = scan.nextFloat();
