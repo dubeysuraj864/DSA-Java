@@ -15,9 +15,8 @@ public class checkTriangle {
             System.out.println("Triangle is Isosceles");
         }
         else if( a != b && b !=c  && c != a){
-            System.out.println("Triangle is Scalene");
+            System.out.println("Triangle is Scalene10");
         }
-
         
     }
 }
