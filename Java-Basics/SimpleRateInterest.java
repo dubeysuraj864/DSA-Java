@@ -3,17 +3,22 @@ import java.util.Scanner;
 public class SimpleRateInterest {
     public static void main(String [] args){
 
-        Scanner scan = new Scanner(System.in);
+        // Scanner scan = new Scanner(System.in);
 
         // String str = scan.nextLine();
 
-        String str = scan.next();
+        // String str = scan.next();
         
-        char c = str.charAt(0);
+        // char c = str.charAt(0);
 
 
 
-        System.out.println( c  );
+        // System.out.println( c  );
+
+        long i = 5456456456L;
+        int d = (int)i ;
+
+        System.out.println(d);
 
         // int n = scan.nextInt();
         // float f = scan.nextFloat();
