@@ -30,6 +30,6 @@ public class HelloWorld {
         
         System.out.println(apple + " " + banana + " " + byteVar + " " + shortVar + " " + longVar + " " + floatVar +" "+ doubVar + " " + c);
 
-
+        scan.close();
     }
 }

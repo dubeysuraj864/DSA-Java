@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class SimpleRateInterest {
     public static void main(String [] args){
 
@@ -19,6 +17,7 @@ public class SimpleRateInterest {
         int d = (int)i ;
 
         System.out.println(d);
+
 
         // int n = scan.nextInt();
         // float f = scan.nextFloat();

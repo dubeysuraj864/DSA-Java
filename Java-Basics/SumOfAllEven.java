@@ -15,5 +15,7 @@ public class SumOfAllEven {
           
         }
 
+        scn.close();
+
     }
 }

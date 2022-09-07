@@ -23,7 +23,7 @@ public class AllPrimes {
             i++;
 
         }
-
+        scn.close();
         // }
     }
 }

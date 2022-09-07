@@ -17,6 +17,6 @@ public class checkTriangle {
         else if( a != b && b !=c  && c != a){
             System.out.println("Triangle is Scalene10");
         }
-        
+        scan.close();
     }
 }

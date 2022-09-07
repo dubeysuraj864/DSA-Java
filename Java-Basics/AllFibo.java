@@ -24,7 +24,9 @@ public class AllFibo {
 
             i++;
         }
+        scn.close();
 
     }
+  
 
 }

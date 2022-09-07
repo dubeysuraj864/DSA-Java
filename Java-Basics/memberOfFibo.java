@@ -29,5 +29,6 @@ public class memberOfFibo{
             i++;
         }
 
+        scn.close();
     }
 }
